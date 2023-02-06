@@ -1,4 +1,8 @@
-# UC Berkeley CS61B - Data Structures 21 Spring
+# UC Berkeley CS61B - Data Structures 2021 Spring
+
+## Welcome to CS 61B 
+The CS 61 series is an introduction to Computer Science, with particular emphasis on software and machines from a programmer’s point of view. CS 61A covered high-level approaches to problem-solving, providing you with a variety of ways to organize solutions to programming problems as compositions of functions, collections of objects, or sets of rules. In CS 61B, we move to a somewhat more detailed (and to some extent, more basic) level of programming by focusing particularly on the efficiency of writing programs (design) and running programs (runtime).
+
 Here's links to the relevant materials:
 
 - [SP21 Course Website](https://sp21.datastructur.es)
