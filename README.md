@@ -1,4 +1,4 @@
-#UC Berkeley CS61B - Data Structures 21 Spring
+# UC Berkeley CS61B - Data Structures 21 Spring
 Here's links to the relevant materials:
 
 - [SP21 Course Website](https://sp21.datastructur.es)
