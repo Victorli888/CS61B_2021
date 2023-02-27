@@ -1,4 +1,4 @@
-package Problems;
+package HW0;
 
 public class Stutter {
     // BJP5 Exercise 4.17: stutter

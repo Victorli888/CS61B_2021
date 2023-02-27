@@ -1,4 +1,4 @@
-package Problems;
+package HW0;
 
 public class StarPyramid {
     // Create a Star Triangle

@@ -1,4 +1,4 @@
-package Problems;
+package HW0;
 
 public class Stringy {
     //  BJP5 Exercise 3.23: printIndexed

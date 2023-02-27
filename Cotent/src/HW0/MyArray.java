@@ -1,4 +1,4 @@
-package Problems;
+package HW0;
 // https://sp21.datastructur.es/materials/hw/hw0/hw0#exercise-2
 
 /**
