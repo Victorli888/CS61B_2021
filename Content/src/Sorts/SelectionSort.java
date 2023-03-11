@@ -34,7 +34,7 @@ public class SelectionSort {
      * @param a First Item
      * @param b Second Item
      */
-    private static void swap(int[] x,int a, int b){
+    public static void swap(int[] x,int a, int b){
         int temp = x[a];
         x[a] = x[b];
         x[b] = temp;
@@ -46,7 +46,7 @@ public class SelectionSort {
      * @param startingIndex Starting index for where to begin search
      * @return
      */
-    private static int findSmallest(int[] x, int startingIndex){
+    public static int findSmallest(int[] x, int startingIndex){
         int currSmallest = startingIndex;
         for(int i = startingIndex; i< x.length; i++){
             if(x[i] < x[currSmallest]){
